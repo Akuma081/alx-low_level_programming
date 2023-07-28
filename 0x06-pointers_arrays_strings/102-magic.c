@@ -8,8 +8,8 @@ int main(void)
 
 	a[2] = 102p = &n;
 	/*
-         * write your line of code here...
-         * Remember:
+^I write your line of code here...
+^I * Remember:
 	 * - you are not allowed to use a
 	 * - you are not allowed to modify p
 	 * - only one statement
